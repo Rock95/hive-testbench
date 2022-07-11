@@ -98,3 +98,4 @@ hive -i settings/load-${SCHEMA_TYPE}.sql -f ddl-tpch/bin_${SCHEMA_TYPE}/analyze.
 
 echo "Data loaded into database ${DATABASE}."
 echo "Data loaded into database ${DATABASE}."
+echo "Data loaded into database ${DATABASE}."
